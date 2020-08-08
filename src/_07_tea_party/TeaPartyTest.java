@@ -9,7 +9,7 @@ public class TeaPartyTest {
 	@Test
 	public void testIsWomanNotKnighted() {
 		TeaParty teaParty = new TeaParty();
-		String greeting = teaParty.welcome("null", false, false);
+		String greeting = teaParty.welcome("Austen", true, false);
 		assertEquals("Hello Ms. Austen", greeting);
 	}
 
