@@ -1,4 +1,4 @@
-package _03_smurf;
+vepackage _03_smurf;
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2019
  *    Level 1
@@ -31,7 +31,7 @@ public class Smurf {
 	/* Papa Smurf wears a red hat, all the others are white. */
 	public String getHatColor() {
 		if(name.equals("papa")) {
-			
+       return 	"red hat";
 		}
 	
 		// 3. Fill in this method
