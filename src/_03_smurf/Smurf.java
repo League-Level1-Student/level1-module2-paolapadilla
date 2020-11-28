@@ -32,6 +32,8 @@ public class Smurf {
 	public String getHatColor() {
 		if(name.equals("papa")) {
        return 	"red hat";
+		}else {
+			
 		}
 	
 		// 3. Fill in this method
