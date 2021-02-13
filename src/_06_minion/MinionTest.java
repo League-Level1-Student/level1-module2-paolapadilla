@@ -48,6 +48,9 @@ public class MinionTest {
 		assertEquals("yellow", dave.getColor());
 	}
 
+	
+	
+
 	@Test
 	public void testSetters() {
 		Minion stuart = new Minion("Stuart", 1, "yellow", "");
